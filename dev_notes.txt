@@ -1,0 +1,8 @@
+superuser:
+- admin
+- admin
+
+to be addressed:
+- an interface to bulk input tasks
+- a way to random select a task from db
+- sqlite explorer in local env
